@@ -7,10 +7,10 @@
     "start": "node server.js"
   },
 "dependencies": {
-    "@adiwajshing/baileys": "6.6.1",
-    "axios": "^1.7.2",
-    "dotenv": "^17.2.3",
-    "express": "^4.18.2",
-    "pino": "^8.14.1"
+  "@adiwajshing/baileys": "git+https://github.com/adiwajshing/Baileys.git",
+  "axios": "^1.7.2",
+  "dotenv": "^17.2.3",
+  "express": "^4.18.2",
+  "pino": "^8.14.1"
 }
 }
