@@ -1,19 +1,15 @@
 {
   "name": "allies-bot",
   "version": "1.0.0",
-  "description": "Allies HackerMode WhatsApp bot (Baileys) - Render-ready",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Allies Tech",
-  "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.4.0",
-    "axios": "^1.4.0",
-    "body-parser": "^1.20.2",
+    "@adiwajshing/baileys": "^6.7.3",
+    "axios": "^1.7.2",
+    "dotenv": "^17.2.3",
     "express": "^4.18.2",
-    "fs-extra": "^11.1.1",
-    "qrcode": "^1.5.1"
+    "pino": "^8.14.1"
   }
 }
