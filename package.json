@@ -2,14 +2,10 @@
   "name": "allies-bot",
   "version": "1.0.0",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
-    "qrcode-terminal": "^0.12.0",
-    "express": "^4.18.2",
-    "dotenv": "^16.3.1"
+    ...
   }
 }
